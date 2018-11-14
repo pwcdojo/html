@@ -1,4 +1,4 @@
 # html
 Materiały:
 
- - http://szablony.freeware.info.pl/tagi.html
+ - http://zsebraniewo.neostrada.pl/HTML.pdf
